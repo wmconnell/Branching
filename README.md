@@ -11,7 +11,11 @@
 * `git log --oneline` list commit history (compact)
 
 ### Branch commands
-* `git branch` - list local branches, highlight current branches
+* `git branch` - list local branches, highlight current branch
 * `git branch branchName` - create branch `branchName`
 * `git checkout branchName` - switch to branch `branchName`
 * `git checkout -b otherBranch` - switch to branch `otherBranch`, creating it if it doesn't exist
+
+### Other commands
+* `git help` - list git subcomands and options
+* `git config --help` - show options for `git config`
