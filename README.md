@@ -22,6 +22,7 @@ Categories of git commands, and practice with branching.
 ### Remote commands
 * `git remote add origin someUrl` - connect local repo to remote repo url as `origin`
 * `git push origin branchName` - push local commits to remote repo into branch `branchName`
+* `git pull origin branchName` - pull remote branch `branchName` into local current branch
 
 ### Other commands
 * `git help` - list git subcomands and options
